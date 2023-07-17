@@ -1,0 +1,7 @@
+Key = "AsFarAsYouThink"
+UserID = "Admincool"
+
+Note: Cannot access this login ID without Firewall and corporate VPN
+
+VPN ID: VPN2023-Office
+VPN-pass: IT@knowswhoyouARE
